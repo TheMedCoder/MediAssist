@@ -1,0 +1,77 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+out/
+coverage/
+.cache/
+.parcel-cache/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Java/Kotlin
+.gradle/
+target/
+*.class
+*.jar
+*.war
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Package manager lock backups
+package-lock.json.*
+yarn.lock.*
+pnpm-lock.yaml.*
+
+# Misc
+*.sqlite
+*.db
+
+# Personal files
+**/Lessons.md

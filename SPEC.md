@@ -1,5 +1,7 @@
 ~~ A webapp that helps doctors. Drug interactions and triage. Users log in. Built with .NET and React. PostgreSQL for the database. ~~
 
+**"who/what/remembers/never/out-of-scope" framework**
+
 # MediAssist -- Clinical Decision Support Tool
 
 ## Who uses this? 
